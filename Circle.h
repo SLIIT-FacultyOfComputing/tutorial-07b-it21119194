@@ -1,6 +1,4 @@
 
-// Circle.h
-
 class Circle {
    private:
       int radius;
